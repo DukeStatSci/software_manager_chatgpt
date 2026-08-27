@@ -78,6 +78,48 @@ Once the license appears under **My Licenses**:
 4. Complete any onboarding prompts, then use the profile menu to confirm that
    you are in the Duke-managed workspace.
 
+## Connect Codex
+
+Codex is included with the Duke Standard license and can be used from the
+desktop app, command line, or an editor. In each client, choose **Sign in with
+ChatGPT** rather than an API key. The client will open a browser; enter
+`netid@duke.edu`, select **Continue with SSO**, complete Duke Shibboleth
+authentication, and confirm that the Duke workspace is selected.
+
+### Desktop app
+
+[Download the ChatGPT desktop app](https://learn.chatgpt.com/docs/app) for
+macOS, Windows, or Linux. Open it, select **Continue** to sign in, and complete
+the SSO flow in your browser. Choose **Codex**, open a project folder, and start
+a new chat.
+
+### Command-line interface
+
+Install the [Codex CLI](https://learn.chatgpt.com/docs/codex/cli), then run:
+
+``` shell
+codex login
+```
+
+Choose **Sign in with ChatGPT** and complete Duke SSO in the browser. You can
+then open a project directory and start Codex with:
+
+``` shell
+codex
+```
+
+### VS Code and other editors
+
+Install the [Codex IDE extension](https://learn.chatgpt.com/docs/codex/ide) in
+VS Code, Cursor, or Windsurf. Open the Codex sidebar and select **Sign in with
+ChatGPT**. If the sidebar is hidden, open the Command Palette and run **Codex:
+Open Codex Sidebar**. Xcode and JetBrains IDEs provide their own Codex
+integrations; select Codex as the agent and use the same Duke SSO account.
+
+The CLI and IDE extension share cached login information. See OpenAI's
+[authentication documentation](https://learn.chatgpt.com/docs/auth) if the
+wrong account or workspace is selected.
+
 ## Existing ChatGPT accounts
 
 If you already have a personal ChatGPT account registered as
