@@ -38,6 +38,33 @@ signing in, switch between the two workspaces from the ChatGPT profile menu or
 account settings. See the [Duke ChatGPT Edu service
 page](https://oit.duke.edu/service/chatgpt-edu/) for current details.
 
+### Purchasing Pro for graduate students
+
+Faculty can pay for Pro licenses for graduate students or other members of
+their group using Software Manager's **Purchase for Others** option:
+
+1. Log in to [Duke Software Manager](https://software-manager.oit.duke.edu/)
+   and open the **Purchase for Others** tab (or select **Order software for
+   someone else**).
+
+2. Select the ChatGPT Pro product and choose **Start Bulk Order**.
+
+3. Enter the NetID of each person who should receive a license and select
+   **Validate NetIDs** to confirm that they are eligible.
+
+4. Enter the fund code to be charged, accept the terms, and complete the
+   order.
+
+Each recipient's license then appears under their own **My Licenses** page, and
+they sign in with their own `netid@duke.edu` address as described below. The
+Pro workspace is separate from the recipient's Standard workspace. Recipients
+must be at least 18 years old and must follow the same data restrictions as
+Standard users. The purchaser is responsible for the monthly charge, so cancel
+licenses that are no longer needed, for example when a student graduates or
+leaves the group. See Duke's [Software Manager ordering
+instructions](https://oit.duke.edu/help/articles/kb0035630/) for more on bulk
+orders and cancellations.
+
 ## Obtain the license
 
 You will need an eligible Duke NetID, access to multi-factor authentication,
