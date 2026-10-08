@@ -23,14 +23,20 @@ page](https://oit.duke.edu/service/chatgpt-edu/) for current restrictions.
 The license does not include API access. For programmatic access to models, use
 Duke's [AI Gateway](https://oit.duke.edu/service/ai-gateway/).
 
-### Forthcoming ChatGPT Pro access
+### ChatGPT Pro access
 
-Duke OIT plans to offer discounted ChatGPT Pro access for users who need the
-higher limits of OpenAI's commercial Pro plan. Pricing, availability, and
-purchasing rules have not yet been announced. If you anticipate needing Pro for
-yourself or for students you support, watch the [Duke
-announcement](https://oit.duke.edu/news/expanded-chatgpt-edu-now-available-duke-no-cost/)
-for eligibility and **Purchase for Others** details.
+Duke OIT now offers discounted ChatGPT Pro licenses for users who need more
+capacity for Duke-affiliated work. The Duke Pro license costs **$100 per
+month** and is equivalent to OpenAI's commercial ChatGPT Pro plan, which is
+normally $200 per month. It is ordered through [Duke Software
+Manager](https://software-manager.oit.duke.edu/products/32) in the same way as
+the Standard license (see below), except that the order requires a Duke **fund
+code**.
+
+Pro accounts live in a separate workspace from the Standard account. After
+signing in, switch between the two workspaces from the ChatGPT profile menu or
+account settings. See the [Duke ChatGPT Edu service
+page](https://oit.duke.edu/service/chatgpt-edu/) for current details.
 
 ## Obtain the license
 
@@ -50,7 +56,8 @@ and must be at least 18 years old.
    <img src="sm-chatgpt.png" alt="ChatGPT - Duke Standard product details in Duke Software Manager" width="100%" />
 
 4. Accept the terms, including the age and usage confirmations, and complete
-   the order. The Standard license does not require a fund code.
+   the order. The Standard license does not require a fund code; the Pro
+   license does.
 
 5. Open **My Licenses** and confirm that **ChatGPT - Duke Standard** appears
    under **Current Licenses**.
